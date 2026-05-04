@@ -3,5 +3,8 @@
     "allow": [
       "Bash(npx playwright *)"
     ]
+  },
+  "enabledPlugins": {
+    "skill-creator@claude-plugins-official": true
   }
 }
